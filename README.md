@@ -24,8 +24,3 @@
 </a>
 </p>
 
-### 🔥 Racha de contribuciones
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="Racha de TU_USUARIO" />
-</p>
