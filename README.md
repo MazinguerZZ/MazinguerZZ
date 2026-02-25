@@ -4,9 +4,9 @@
 Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Francisco de Goya. Me gusta mucho aprender cosas nuevas, y me gusta la programación.
 
 ## Aficiones
-* Videojuegos
-* Natacion
-* :emoji-name::swimming_man: Fútbol
+* :video_game: Videojuegos
+* :swimming_man: Natacion
+* :soccer: Fútbol
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **Mis Estadisticas:**
 
