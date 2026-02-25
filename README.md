@@ -6,7 +6,7 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 ## Aficiones
 * Videojuegos
 * Natacion
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" alt="Soccer Ball" width="25" height="25" /> Fútbol
+* :emoji-name::swimming_man: Fútbol
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **Mis Estadisticas:**
 
