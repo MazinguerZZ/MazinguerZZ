@@ -8,7 +8,6 @@
 ### 🛠️ Lenguajes que uso
 
 <!-- Generado con https://skillicons-picker.derikn.com -->
-<p align="center">
 <a href="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,vscode&perline=6">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,vscode&perline=6" />
 </a>
