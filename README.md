@@ -1,4 +1,5 @@
-# Mi Perfil de GitHub 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=XamRyo&fontSize=50&fontColor=E5E7EB&animation=twinkling&fontAlignY=32&desc=DAM2%201º%20Student%20|%20DAM2%20|%20Develop&descSize=18&descAlignY=60" width="100%" />
+
 
 ## Sobre mi
 Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Francisco de Goya. Me gusta mucho aprender cosas nuevas, y me gusta la programación.
