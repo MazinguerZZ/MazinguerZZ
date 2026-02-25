@@ -8,11 +8,18 @@
 ### 🛠️ Lenguajes que uso
 
 <!-- Generado con https://skillicons-picker.derikn.com -->
-<a href="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,vscode,mariadb&perline=10">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,vscode,mariadb&perline=10" />
+<a href="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,vscode,androidstudio&perline=10">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,vscode,androidstudio&perline=10" />
 </a>
 </p>
 
+## Plataformas que uso
+
+<!-- Generado con https://skillicons-picker.derikn.com -->
+<a href="https://skillicons.dev/icons?i=vscode,androidstudio&perline=10">
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio&perline=10" />
+</a>
+</p>
 
 ### 🔥 Racha de contribuciones
 
