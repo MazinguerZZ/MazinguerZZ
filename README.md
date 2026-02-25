@@ -8,7 +8,7 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 * :swimming_man: Natacion
 * :soccer: Fútbol
 
-## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **Mis Estadisticas:**
+## 📊 **Mis Estadisticas:**
 
 <div style="display:flex; flex-direction:row; justify-content:flex-start;">
     <img  style="height: auto !important;" alt="Streak Stats" src="https://github-readme-streak-stats-tan-nine.vercel.app/?user=mazinguerzz&theme=vision-friendly-dark&hide_border=false&date_format=%5BY%20%5DM%20j"/>
