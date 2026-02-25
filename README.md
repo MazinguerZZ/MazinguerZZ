@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app|%20DAM%20|%20Develop&descSize=18&descAlignY=60" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:00B4D8&height=230&section=header&text=MazinguerZZ&fontSize=50&fontColor=E5E7EB&animation=twinkling&fontAlignY=32&desc=DAM%202º%20Estudiante%20|%20DAM%20|%20Develop&descSize=18&descAlignY=60" width="100%" />
 
 
 
