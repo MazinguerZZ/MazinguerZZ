@@ -21,8 +21,8 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 ## 🛠️ Lenguajes que uso
 
 <!-- Generado con https://skillicons-picker.derikn.com -->
-<a style="text-align: center;" href="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,react,mysql,spring,postman,mongodb&perline=10">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,react,mysql,spring,postman,mongodb&perline=10" />
+<a style="text-align: center;" href="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,react,mysql,spring,postman,mongodb&perline=15">
+<img style="text-align: center;" src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,react,mysql,spring,postman,mongodb&perline=15" />
 </a>
 </p>
 
