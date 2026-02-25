@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=Adrián ÁLvarez Bombín&fontSize=50&fontColor=E5E7EB&animation=twinkling&fontAlignY=32&desc=DAM%202º%20Estudiante%20|%20DAM%20|%20Develop&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=Adrián_Álvarez_Bombín&fontSize=50&fontColor=E5E7EB&animation=twinkling&fontAlignY=32&desc=DAM%202º%20Estudiante%20|%20DAM%20|%20Develop&descSize=18&descAlignY=60" width="100%" />
 
 
 ## Sobre mi
