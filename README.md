@@ -2,9 +2,8 @@
 
 ### 📊 Mis Estadísticas
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Estadísticas de TU_USUARIO" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=MazinguerZZ)
+
 
 ### 🛠️ Lenguajes más usados
 
