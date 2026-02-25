@@ -1,4 +1,19 @@
-### 📊 GitHub Stats  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app)
+# Mi Perfil de GitHub 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Mis Estadísticas
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Estadísticas de TU_USUARIO" />
+</p>
+
+### 🛠️ Lenguajes más usados
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Lenguajes de TU_USUARIO" />
+</p>
+
+### 🔥 Racha de contribuciones
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="Racha de TU_USUARIO" />
+</p>
