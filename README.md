@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001233,50:002855,100:0077B6&height=230&section=header&text=MazinguerZZ&fontSize=50&fontColor=E5E7EB&animation=twinkling&fontAlignY=32&desc=DAM%202º%20Estudiante%20|%20DAM%20|%20Develop&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0077B6,100:00B4D8&height=230&section=header&text=MazinguerZZ&fontSize=50&fontColor=E5E7EB&animation=twinkling&fontAlignY=32&desc=DAM%202º%20Estudiante%20|%20DAM%20|%20Develop&descSize=18&descAlignY=60" width="100%" />
 
 
 ## Sobre mi
