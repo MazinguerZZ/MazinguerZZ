@@ -18,7 +18,7 @@
 ## Plataformas que uso
 
 <!-- Generado con https://skillicons-picker.derikn.com -->
-<a href="https://skillicons.dev/icons?i=vscode,idea,pycharm,androidstudio&perline=10">
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,androidstudio&perline=10" />
+<a href="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,androidstudio&perline=10">
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,androidstudio&perline=10" />
 </a>
 </p>
