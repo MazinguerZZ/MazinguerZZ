@@ -3,7 +3,7 @@
 
 
 ## Sobre mi
-Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Francisco de Goya. Me gusta mucho aprender cosas nuevas, y me gusta la programación.
+Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Francisco de Goya.
 
 ## Aficiones
 * :video_game: Videojuegos
