@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90D5FF,50:90D5FF,100:90D5FF,&height=230&section=header&text=MazinguerZZ&fontSize=50&fontColor=1a1814&animation=twinkling&fontAlignY=32&desc=DAM%202º%20Estudiante%20|%20DAM%20&descSize=18&descAlignY=60" width="100%" />
 
-<picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=MazinguerZZ&theme=road_trip&hide=avatar">
-</picture>
-
 
 ## Sobre mi
 Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Francisco de Goya.
@@ -14,6 +10,10 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 * :soccer: Fútbol
 
 ## 📊 **Mis Estadisticas:**
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=MazinguerZZ&theme=road_trip&hide=avatar">
+</picture>
+
 
 <div style="display:flex; flex-direction:row; justify-content:flex-start;">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" /></a>
