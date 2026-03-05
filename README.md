@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90D5FF,50:90D5FF,100:90D5FF,&height=230&section=header&text=MazinguerZZ&fontSize=50&fontColor=1a1814&animation=twinkling&fontAlignY=32&desc=DAM%202º%20Estudiante%20|%20DAM%20&descSize=18&descAlignY=60" width="100%" />
 
-https://pixel-profile.vercel.app/api/github-stats?username=<MazinguerZZ>
+https://pixel-profile.vercel.app/api/github-stats?username=MazinguerZZ
 
 
 ## Sobre mi
