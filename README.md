@@ -20,6 +20,10 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
     <img align="top" src="https://github-readme-stats-vineet.vercel.app/api/top-langs?username=mazinguerzz&theme=github_dark&show_icons=true&layout=compact&langs_count=10"  alt="Mis estadisticas de github" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MazinguerZZ&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 ## 🛠️ Lenguajes que he usado alguna vez y que conozco
 
