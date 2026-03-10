@@ -38,3 +38,8 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,androidstudio&perline=10" />
 </a>
 </p>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MazinguerZZ&style=flat-square&color=blue&label=Visitas+al+Perfil" alt="Contador de Visitas" />
+</div>
