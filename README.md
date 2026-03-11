@@ -17,7 +17,7 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 
 <div style="display:flex; flex-direction:row; justify-content:flex-start;">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=tokyonight&locale=es" alt="GitHub Streak" /></a>
-  <img align="top" src="https://github-readme-stats-vineet.vercel.app/api/top-langs?username=mazinguerzz&theme=github_dark&show_icons=true&layout=compact&langs_count=10"  alt="Mis estadisticas de github" />
+  <img align="top" src="https://github-readme-stats-vineet.vercel.app/api/top-langs?username=mazinguerzz&theme=github_dark&show_icons=true&layout=compact&langs_count=8"  alt="Mis estadisticas de github" />
 </div>
 
 
