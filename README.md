@@ -43,3 +43,11 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MazinguerZZ&style=flat-square&color=blue&label=Visitas+al+Perfil" alt="Contador de Visitas" />
 </div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
