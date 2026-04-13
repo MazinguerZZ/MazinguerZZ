@@ -10,13 +10,16 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 * :soccer: Fútbol
 
 ## 📊 **Mis Estadisticas:**
+
 <picture decoding="async" loading="lazy">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=MazinguerZZ&theme=road_trip&hide=avatar">
 </picture>
+<p align="top">
+  <img height="170" src="https://streak-stats.demolab.com?user=mazinguerzz&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MazinguerZZ&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Mis estadisticas de github" /></div>
+</p>
 
-<div style="display:flex; flex-direction:row; justify-content:flex-start;">
-  <img height="170" src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=tokyonight&hide_border=true&border_radius=10" />
-<img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MazinguerZZ&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Mis estadisticas de github" /></div>
+
 
 
 
