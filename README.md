@@ -19,7 +19,7 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
         src="https://github-readme-stats.vercel.app/api/top-langs?username=MazinguerZZ&show_icons=true&bg_color=33,12F2B7,C6A4FF&title_color=374B43&text_color=374B43&include_all_commits=true&icon_color=374B43&hide_border=true&count_private=true&show_icons=true&card_width=830&layout=compact" />
 </a>
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="170" src="https://streak-stats.demolab.com?user=victorquinn&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 
