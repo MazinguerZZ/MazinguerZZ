@@ -48,3 +48,10 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MazinguerZZ&style=flat-square&color=blue&label=Visitas+al+Perfil" alt="Contador de Visitas" />
 </div>
+
+
+
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=fvfsfc9fuz9mjib6qcmf53ikc">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=fvfsfc9fuz9mjib6qcmf53ikc" alt="Data Card for Spotify">
+</a>
