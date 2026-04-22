@@ -14,18 +14,15 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 <picture decoding="async" loading="lazy">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=MazinguerZZ&theme=road_trip&hide=avatar">
 </picture>
-<a href="https://github.com/MazinguerZZ">
-    <img align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=MazinguerZZ&show_icons=true&bg_color=33,12F2B7,C6A4FF&title_color=374B43&text_color=374B43&include_all_commits=true&icon_color=374B43&hide_border=true&count_private=true&show_icons=true&card_width=830&layout=compact" />
-</a>
+
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 
 
-
-
+### Mis lenguajes mas usados en GitHub:
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MazinguerZZ&layout=compact&theme=dark&hide=Objective-C,PureBasic&hide_title=true)](https://github.com/MazinguerZZ/github-readme-stats)
 
 
 ## 🛠️ Lenguajes que he usado alguna vez y que conozco
