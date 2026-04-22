@@ -2,7 +2,7 @@
 
 ## Sobre mi
 Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Francisco de Goya.
-Apasionado del desarrollo de videojuegos y aplicaciones móviles, siempre buscando aprender nuevas tecnologías.
+Apasionado del desarrollo de aplicaciones y siempre buscando aprender nuevas tecnologías.
 
 ## Aficiones
 * :video_game: Videojuegos
