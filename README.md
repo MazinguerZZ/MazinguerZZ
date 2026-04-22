@@ -12,17 +12,10 @@ Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Fra
 
 <div align="center">
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=MazinguerZZ&theme=road_trip&hide=avatar" alt="github stats" />
+  <br/><br/>
+  <img width="530" src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats" />
+  <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazinguerZZ&layout=compact&theme=dark&hide=Objective-C,PureBasic&hide_title=true" alt="Top Langs" />
 </div>
-<table align="center"><tr>
-<td align="center">
-  <img width="640" src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats" />
-</td>
-<td align="center">
-  <a href="https://github.com/MazinguerZZ/github-readme-stats">
-    <img width="560" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazinguerZZ&layout=compact&theme=dark&hide=Objective-C,PureBasic&hide_title=true" alt="Top Langs" />
-  </a>
-</td>
-</tr></table>
 
 ## 🛠️ Lenguajes que he usado alguna vez y que conozco
 <a href="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,react,mysql&perline=15">
