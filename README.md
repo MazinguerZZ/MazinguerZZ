@@ -13,7 +13,7 @@ Apasionado del desarrollo de aplicaciones y siempre buscando aprender nuevas tec
 
 <div align="center">
   <a href="https://github.com/MazinguerZZ/Space_Birds">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MazinguerZZ&repo=Space_Birds&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MazinguerZZ&repo=Space_Birds&theme=tokyonight&hide_border=true&description_lines_count=2" />  
   </a>
 </div>
 
