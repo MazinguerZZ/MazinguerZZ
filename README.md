@@ -22,8 +22,8 @@ Apasionado del desarrollo de videojuegos y aplicaciones móviles, siempre buscan
 <div align="center">
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=MazinguerZZ&theme=road_trip&hide=avatar" alt="github stats" />
   <br/><br/>
-  <img width="450" src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats" />
-  <img width="395" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazinguerZZ&layout=compact&theme=tokyonight&hide_border=true&hide=Objective-C,PureBasic&hide_title=true" alt="Top Langs" />
+  <img width="445" src="https://streak-stats.demolab.com?user=MazinguerZZ&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazinguerZZ&layout=compact&theme=tokyonight&hide_border=true&hide=Objective-C,PureBasic&hide_title=true" alt="Top Langs" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MazinguerZZ&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
