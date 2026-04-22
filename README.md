@@ -2,7 +2,13 @@
 
 ## Sobre mi
 Hola, soy Adrián Álvarez Bombín, actualmente estudiante de DAM2 en el IES Francisco de Goya.
-Apasionado de la tecnología y siempre buscando aprender nuevas tecnologías.
+Apasionado de la informática y siempre buscando aprender nuevas tecnologías.
+
+<div align="center">
+  <a href="https://linkedin.com/in/adrián-álvarez-bombín-801000397">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ## Aficiones
 * :video_game: Videojuegos
@@ -54,8 +60,8 @@ Apasionado de la tecnología y siempre buscando aprender nuevas tecnologías.
   </a>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=MazinguerZZ&style=flat-square&color=blue&label=Visitas+al+Perfil" alt="Contador de Visitas" />
-</div> -->
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4aae,50:0a2a6e,100:050d2e&height=120&section=footer" width="100%" />
