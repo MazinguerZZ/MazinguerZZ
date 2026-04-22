@@ -15,6 +15,15 @@ Apasionado del desarrollo de aplicaciones y siempre buscando aprender nuevas tec
   <a href="https://github.com/MazinguerZZ/Space_Birds">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MazinguerZZ&repo=Space_Birds&theme=tokyonight&hide_border=true&description_lines_count=2" />  
   </a>
+  <a href="https://github.com/MazinguerZZ/Proyecto_Pagina_Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MazinguerZZ&repo=Proyecto_Pagina_Web&theme=tokyonight&hide_border=true&description_lines_count=2" />  
+  </a>
+  <a href="https://github.com/MazinguerZZ/Proyecto_Formulario">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MazinguerZZ&repo=Proyecto_Formulario&theme=tokyonight&hide_border=true&description_lines_count=2" />  
+  </a>
+  <a href="https://github.com/MazinguerZZ/Proyecto_Boostrap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MazinguerZZ&repo=Proyecto_Boostrap&theme=tokyonight&hide_border=true&description_lines_count=2" />  
+  </a>
 </div>
 
 ## 📊 **Mis Estadisticas:**
