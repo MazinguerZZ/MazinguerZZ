@@ -12,7 +12,7 @@ Apasionado de la informática y siempre buscando aprender nuevas tecnologías.
 
 ## Aficiones
 * :video_game: Videojuegos
-* :swimming_man: Natación
+* :swimming_man: Natacion
 * :soccer: Fútbol
 
 ## 🚀 Proyectos destacados
