@@ -43,6 +43,11 @@ Apasionado de la informática y siempre buscando aprender nuevas tecnologías.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MazinguerZZ&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
+
+## 🏆 Trofeos
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MazinguerZZ&theme=dracula&column=4&margin-w=15&margin-h=10&no-bg=false&no-frame=false)    
+
+
 ## 🛠️ Lenguajes que he usado alguna vez y que conozco
 <a href="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,react,mysql&perline=15">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,react,mysql&perline=15" />
